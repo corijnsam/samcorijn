@@ -146,6 +146,11 @@ li {
 width: 165px;
 }
 
+#CelebratetheProgress_video {
+  width:671px;
+  cursor:pointer;
+}
+
 .my9favoritechords_img {
   width: 221px;
 }
@@ -259,6 +264,19 @@ and (max-device-width : 1024px)
       margin:0;
     }
 
+    .CelebratetheProgress_poster_img {
+   width:calc((100% - 10px)/2);
+   margin:0;
+    }
+
+    #CelebratetheProgress_video {
+      width:calc(100% - 5px);
+    }
+
+    #my9favoritechords_video {
+    width:calc((100% - 10px)/3);
+    }
+
  .my9favoritechords_img {
   width:calc((100% - 10px)/3);
 
@@ -321,7 +339,7 @@ width:calc((100% - 10px)/2);
    }
 
    #HetJeugdFilmFestival_video {
-     width: 100%;
+     width:calc(100% - 5px);
    }
 
    .Posters_img {
