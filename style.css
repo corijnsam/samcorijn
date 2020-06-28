@@ -1,0 +1,330 @@
+@font-face {
+  font-family: 'Space Grotesk Medium';
+  src: url('font/SpaceGrotesk-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Space Grotesk SemiBold';
+  src: url('font/SpaceGrotesk-SemiBold.ttf') format('truetype');
+}
+
+body {
+margin: 0;
+background-color: #c5c5c5;
+  font-family: 'Space Grotesk Medium';
+letter-spacing: -2px;
+color: #0000ff;
+}
+
+a {
+text-decoration:none;
+}
+
+#title {
+  line-height: 100%;
+left: 0px;
+top: 6px;
+margin:0px 0px 0px 10px;
+font-size: 50px;
+font-weight: 400;
+height: :150px;
+width: 1200px;
+position: fixed;
+}
+
+#main {
+top:0;
+margin-top: 150px;
+margin-left: 300px;
+width:683px;
+}
+
+.contact {
+  position:fixed;
+  left: 10px;
+  text-decoration: none;
+  z-index: 1;
+  color: #0000ff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#contact_title {
+  letter-spacing: 0px;
+  bottom: 35px;
+  font-family: 'Space Grotesk SemiBold';
+}
+#Email {
+  letter-spacing: 0px;
+bottom: 15px;
+font-family: 'Space Grotesk SemiBold';
+}
+#insta {
+  letter-spacing: 0px;
+bottom: 10px;
+font-family: 'Space Grotesk SemiBold';
+}
+
+#insta:hover {
+ font-style: italic;
+ font-family: 'Space Grotesk SemiBold';
+}
+
+#nav {
+  font-family: 'Space Grotesk SemiBold';
+  letter-spacing: 0px;
+  line-height: 100%;
+  font-size: 14px;
+  margin:0px 0px 0px -28px;
+  top:0px;
+  margin-top: 150px;
+  list-style-type:none;
+  font-weight: 500;
+  position:fixed;
+}
+
+li {
+
+  padding: 0px 0px 6px 0px;
+  text-decoration: none;
+}
+
+.nav_link {
+  padding: 0px 0px 0px 20px;
+  text-decoration: none;
+  color: #0000ff;
+}
+
+.nav_link:hover {
+  text-decoration: none;
+  font-style: italic;
+}
+
+#nav_posters {
+  padding:0px;
+  text-decoration: none;
+  color: #0000ff;
+}
+
+#nav_posters:hover {
+  text-decoration: none;
+  font-style: italic;
+}
+
+.nav_year {
+  margin:18px 0px 0px 0px;
+}
+
+.project {
+  margin-bottom: 150px;
+}
+
+.project_title {
+ font-size: 50px;
+ margin: -10px 0px 0px 0px;
+ font-weight: 400;
+}
+
+.project_text {
+  letter-spacing: 0px;
+  font-size: 14px;
+  line-height: 100%;
+  font-weight: 500;
+}
+
+
+.project_ref {
+  margin-top: -140px;
+  position:absolute;
+}
+
+.CelebratetheProgress_img {
+  width: 333px;
+}
+
+.CelebratetheProgress_poster_img {
+width: 165px;
+}
+
+.my9favoritechords_img {
+  width: 221px;
+}
+
+#my9favoritechords_video {
+  width: 221px;
+}
+
+#my9favoritechords_video:hover {
+  cursor:pointer;
+}
+
+
+.MACSAM_img {
+  width: 333px;
+}
+
+.Shakespeare_img {
+  width: 221px;
+}
+
+.TheaterFest_img {
+  width: 165px;
+}
+
+.TheaterFest_spread_img {
+  width: 333px;
+}
+
+.Nacht_van_de_Verbeelding_img{
+  width: 221px;
+}
+
+.LEF_img{
+  width: 220px;
+}
+
+.LEF_groot_img{
+  width: 668px;
+}
+
+.BelgianPostStamps_img{
+  width: 110px;
+}
+
+.NIHAO_img_1,.NIHAO_img_2 {
+height: 392px;
+}
+
+.HetJeugdFilmFestival_img_1,.HetJeugdFilmFestival_img_1, {
+height: 302px;
+}
+
+#HetJeugdFilmFestival_video {
+  width:671px;
+  cursor:pointer;
+}
+
+.Posters_img {
+  width: 165px;
+}
+
+::-moz-selection {
+  color: #FFFF00;
+  background: #4E4E4E;
+}
+
+::selection {
+  color: #FFFF00;
+  background: #4E4E4E;
+}
+
+@media only screen
+and (min-width: 768px)
+and (max-width: 1024px) {
+
+}
+
+
+/* mobile */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 1024px)
+{
+  #title {
+  font-size: 22px;
+  height: auto;
+  width: 300px;
+  letter-spacing: 0;
+  }
+
+  #main {
+  top:0;
+  margin-top: 150px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width:calc(100% - 20px);
+  letter-spacing: 0;
+  }
+  #nav {
+    display:none;
+  }
+  .project_title {
+   font-size: 22px;
+   margin: 0px 0px 0px 0px;
+   letter-spacing: 0;
+ }
+
+ .CelebratetheProgress_img  {
+ width:calc((100% - 10px)/2);
+      margin:0;
+    }
+
+ .my9favoritechords_img {
+  width:calc((100% - 10px)/3);
+
+ }
+
+ #my9favoritechords_video {
+ width:calc((100% - 10px)/3);
+ }
+
+.MACSAM_img {
+width:calc((100% - 10px)/2);
+     margin:0;
+   }
+
+   .Shakespeare_img {
+      width:calc((100% - 10px)/2);
+  }
+
+   .TheaterFest_img {
+    width:calc((100% - 10px)/2);
+   }
+
+   .TheaterFest_spread_img {
+    width:calc((100% - 10px)/2);
+   }
+
+   .Nacht_van_de_Verbeelding_img{
+     width:calc((100% - 10px)/2);
+   }
+
+   .LEF_img{
+     width:calc((100% - 10px)/3);
+   }
+
+   .LEF_groot_img{
+     width: 100%;
+   }
+
+   .BelgianPostStamps_img{
+      width:calc((100% - 10px)/3);
+   }
+
+   .NIHAO_img_1{
+    width:calc((100% - 10px)*(61/100));
+    height:auto;
+   }
+
+   .NIHAO_img_2 {
+    width:calc((100% - 10px)*(39/100));
+    height:auto;
+   }
+
+   .HetJeugdFilmFestival_img_1 {
+   width:calc((100% - 10px)*(32/100));
+   height: auto;
+   }
+   .HetJeugdFilmFestival_img_2 {
+   width:calc((100% - 10px)*(68/100));
+   height: auto;
+   }
+
+   #HetJeugdFilmFestival_video {
+     width: 100%;
+   }
+
+   .Posters_img {
+     width:calc((100% - 10px)/2);
+   }
+}
