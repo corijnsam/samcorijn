@@ -146,6 +146,22 @@ li {
 width: 165px;
 }
 
+.SEINHUIS_mockup_img {
+  width: 668px;
+}
+
+.SEINHUIS_affiche_img {
+  width: 165px;
+}
+
+.SEINHUIS_affiche2_img {
+  width: 333px;
+}
+
+.SEINHUIS_affiche3_img {
+    width: 221px;
+}
+
 #CelebratetheProgress_video {
   width:671px;
   cursor:pointer;
@@ -271,6 +287,22 @@ and (max-device-width : 1024px)
 
     #CelebratetheProgress_video {
       width:calc(100% - 5px);
+    }
+
+    .SEINHUIS_mockup_img {
+      width:calc(100% - 10px);
+    }
+
+    .SEINHUIS_affiche_img {
+      width:calc((100% - 10px)/4);
+    }
+
+    .SEINHUIS_affiche2_img {
+      width:calc((100% - 10px)/2);
+    }
+
+    .SEINHUIS_affiche3_img {
+        width:calc((100% - 10px)/3);
     }
 
     #my9favoritechords_video {
