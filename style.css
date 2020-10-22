@@ -158,16 +158,16 @@ width: 165px;
   width: 110px;
 }
 
-#CelebratetheProgress_video {
+.video1 {
   width:671px;
   cursor:pointer;
 }
 
-#my9favoritechords_video {
+.video3 {
   width: 221px;
 }
 
-#my9favoritechords_video:hover {
+.video1 .video3 {
   cursor:pointer;
 }
 
@@ -251,18 +251,13 @@ and (max-device-width : 1024px)
    width:calc((100% - 10px)/3);
  }
 
-    #CelebratetheProgress_video {
+    .video1 {
       width:calc(100% - 5px);
     }
 
-    #my9favoritechords_video {
+    .video3 {
     width:calc((100% - 10px)/3);
     }
-
-
- #my9favoritechords_video {
- width:calc((100% - 10px)/3);
- }
 
    .NIHAO_img_1{
     width:calc((100% - 10px)*(61/100));
