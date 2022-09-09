@@ -75,9 +75,8 @@ font-family: 'Space Grotesk SemiBold';
   letter-spacing: 0px;
   line-height: 100%;
   font-size: 14px;
-  margin:0px 0px 0px -28px;
+  margin:70px 0px 0px -28px;
   top:0px;
-  margin-top: 100px;
   list-style-type:none;
   font-weight: 500;
   position:fixed;
@@ -85,7 +84,7 @@ font-family: 'Space Grotesk SemiBold';
 
 li {
 
-  padding: 0px 0px 6px 0px;
+  padding: 0px 0px 4px 0px;
   text-decoration: none;
 }
 
@@ -112,7 +111,7 @@ li {
 }
 
 .nav_year {
-  margin:18px 0px 0px 0px;
+  margin:10px 0px 0px 0px;
 }
 
 .project {
@@ -134,7 +133,7 @@ li {
 
 
 .project_ref {
-  margin-top: -90px;
+  margin-top: -60px;
   position:absolute;
 }
 
