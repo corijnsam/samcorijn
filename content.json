@@ -1,0 +1,135 @@
+[
+  {
+    "header": "Books",
+    "content": [
+      {
+        "title": "Book assignment",
+        "subtitle": "Luca school of arts",
+        "year": "2020",
+        "description": "Merit badge book series inspired by Wes Anderson’s Moonrise Kingdom.\nProtagonist Sam Shakusky ‘took care’ of our dating book.\nCollab with Sam Dekocker",
+        "images": [
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_Dating_cover.jpg", "size": 1 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_3.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_4.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_5.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_10.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_11.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_12.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_13.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_15.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_17.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_20.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_21.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_22.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_24.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_25.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_26.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_28.jpg", "size": 2 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_ant_burning_cover.jpg", "size": 1 },
+          { "path": "Merit_badge_series/Sam_Corijn_merit_badge_series_kil_a_dog_cover.jpg", "size": 1 }
+        ]
+      },  {
+        "title": "Dauwtrip",
+        "subtitle": "",
+        "year": "2020",
+        "description": "pictures by: Dajo Van den Bussche",
+        "images": [
+          { "path": "Dauwtrip/Dauwtrip_1.jpg", "size": 2 },
+          { "path": "Dauwtrip/Dauwtrip_2.jpg", "size": 2 },
+          { "path": "Dauwtrip/Dauwtrip_3.jpg", "size": 2 },
+          { "path": "Dauwtrip/Dauwtrip_4.jpg", "size": 2 }
+        ]
+      },
+      {
+        "title": "Masterproject 2022",
+        "subtitle": "",
+        "year": "",
+        "description": "",
+        "images": [
+          { "path": "Masterproject_2022/Masterproject_2022_1.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_2.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_3.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_4.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_5.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_6.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_7.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_8.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_9.jpg", "size": 2 },
+          { "path": "Masterproject_2022/Masterproject_2022_10.jpg", "size": 2 }
+        ]
+      },
+      {
+        "title": "De Filmavonden",
+        "subtitle": "",
+        "year": "",
+        "description": "",
+        "images": [
+          { "path": "De_Filmavonden/A_Clockwork_Orange2.jpg", "size": 2 },
+          { "path": "De_Filmavonden/Cinema_des_Refuses2.jpg", "size": 2 },
+          { "path": "De_Filmavonden/Crash2.jpg", "size": 2 },
+          { "path": "De_Filmavonden/Crash3.jpg", "size": 2 },
+          { "path": "De_Filmavonden/Crash5.jpg", "size": 2 },
+          { "path": "De_Filmavonden/Crash6.jpg", "size": 2 },
+          { "path": "De_Filmavonden/Gone_with_the_Wind2.jpg", "size": 2 },
+          { "path": "De_Filmavonden/Olympia.jpg", "size": 2 }
+        ]
+      },
+      {
+        "title": "October",
+        "subtitle": "",
+        "year": "",
+        "description": "",
+        "images": [
+          { "path": "October/Sam_in_Hand.jpg", "size": 1 },
+          { "path": "October/Kalender.jpg", "size": 2 },
+          { "path": "October/Verjaardags_Kalender.jpg", "size": 2 }
+        ]
+      },
+      {
+        "title": "20 Graphic Design (eye) Essays",
+        "subtitle": "",
+        "year": "",
+        "description": "",
+        "images": [
+          { "path": "Manga/Insta_Post_Manga_1.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_2.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_4.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_5.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_7.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_12.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_14.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_16.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_20.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_30.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_36.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_43.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_46.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_50.png", "size": 2 }
+        ]
+      },
+            {
+        "title": "20 Graphic Design (eye) Essays",
+        "subtitle": "",
+        "year": "",
+        "description": "",
+        "images": [
+          { "path": "Manga/Insta_Post_Manga_1.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_2.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_4.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_5.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_7.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_12.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_14.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_16.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_20.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_30.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_36.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_43.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_46.png", "size": 2 },
+          { "path": "Manga/Insta_Post_Manga_50.png", "size": 2 }
+        ]
+      }
+    
+    ]
+  }
+]
