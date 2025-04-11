@@ -1,160 +1,142 @@
-@font-face {
-  font-family: 'Space Grotesk Medium';
-  src: url('font/SpaceGrotesk-Medium.ttf') format('truetype');
-}
+/*@font-face {
+    font-family: 'spaceGrotesk';
+    src: url('font/SpaceGrotesk-Medium.ttf') format('truetype');
+}*/
 
 @font-face {
-  font-family: 'Space Grotesk SemiBold';
-  src: url('font/SpaceGrotesk-SemiBold.ttf') format('truetype');
+    font-family: 'spaceGrotesk';
+    src: url('font/SpaceGrotesk-SemiBold.ttf') format('truetype');
 }
 
 body {
-margin: 0;
-background-color: #c5c5c5;
-  font-family: 'Space Grotesk Medium';
-letter-spacing: -2px;
-color: #0000ff;
+    margin: 0;
+    background-color: #c5c5c5;
+    font-family: 'spaceGrotesk';
+    letter-spacing: -2px;
+    color: #0000ff;
 }
 
-a {
-text-decoration:none;
+a, a:visited, a:hover, a:active {
+    text-decoration:none;
+    color: #0000ff;
 }
 
 #title {
-  line-height: 100%;
-left: 0px;
-top: 6px;
-margin:0px 0px 0px 10px;
-font-size: 50px;
-font-weight: 400;
-height: :150px;
-width: 1200px;
-position: fixed;
+    line-height: 100%;
+    left: 0px;
+    top: 6px;
+    margin:0 0 0 20px;
+    font-size: 50px;
+    position: fixed;
 }
 
 #main {
-top:0;
-margin-top: 70px;
-margin-left: 300px;
-width:683px;
+    top:0;
+    margin: 70px auto 0 auto;
+    width:45vw;
 }
 
-.contact {
-  position:fixed;
-  left: 10px;
-  text-decoration: none;
-  z-index: 1;
-  color: #0000ff;
-  font-size: 14px;
-  font-weight: 500;
+#navigation {
+    margin: 5px 0 0 20px;
+    position:fixed;
+    height: 70vh;
+    overflow: hidden;
 }
 
-#contact_title {
-  letter-spacing: 0px;
-  bottom: 25px;
-  font-family: 'Space Grotesk SemiBold';
-}
-#Email {
-  letter-spacing: 0px;
-bottom: 8px;
-font-family: 'Space Grotesk SemiBold';
-}
-#insta {
-  letter-spacing: 0px;
-bottom: 5px;
-font-family: 'Space Grotesk SemiBold';
+#contact {
+    margin: 0 0 0 20px;
+    position: fixed;
+    bottom: 10px;
 }
 
-#insta:hover {
- font-style: italic;
- font-family: 'Space Grotesk SemiBold';
-}
-
-#nav {
-  font-family: 'Space Grotesk SemiBold';
-  letter-spacing: 0px;
-  line-height: 100%;
-  font-size: 14px;
-  margin:70px 0px 0px -28px;
-  top:0px;
-  list-style-type:none;
-  font-weight: 500;
-  position:fixed;
+ul {
+    line-height: 100%;
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+    letter-spacing: 0;
+    font-size: 14px;
 }
 
 li {
-
-  padding: 0px 0px 4px 0px;
-  text-decoration: none;
+    padding: 0 0 4px 0;
 }
 
-.nav_link {
-  padding: 0px 0px 0px 20px;
-  text-decoration: none;
-  color: #0000ff;
+#contact p {
+    margin: 0;
 }
 
-.nav_link:hover {
-  text-decoration: none;
-  font-style: italic;
+#nav a:hover {
+    font-style: italic;
+}
+
+#contact a:hover {
+    font-style: italic;
+}
+
+.navTitle {
+    margin: 10px 0 0 0;
+}
+
+.navLarge {
+    line-height: 80%;
+    display: block;
+    padding: 0 0 0 20px;
+    font-size: 25px;
+}
+
+.navSmall {
+    padding: 0 0 0 20px;
 }
 
 #nav_posters {
-  padding:0px;
-  text-decoration: none;
-  color: #0000ff;
+    padding:0;
 }
 
 #nav_posters:hover {
-  text-decoration: none;
   font-style: italic;
 }
 
-.nav_year {
-  margin:10px 0px 0px 0px;
+.categoryTitle {
+    font-size: 50px;
+    margin: 0;
+}
+
+.categoryRef {
+    margin-top: -140px;
+    position:absolute;
 }
 
 .project {
-  margin-bottom: 150px;
+    margin-bottom: 150px;
 }
 
-.project_title {
- font-size: 50px;
- margin: -10px 0px 0px 0px;
- font-weight: 400;
+.projectTitle {
+    letter-spacing: 0;
+    margin: 0;
+    line-height: 100%;
 }
 
 .project_text {
-  letter-spacing: 0px;
-  font-size: 14px;
-  line-height: 100%;
-  font-weight: 500;
+    letter-spacing: 0;
+    font-size: 14px;
+    line-height: 100%;
 }
 
-
-.project_ref {
-  margin-top: -60px;
-  position:absolute;
+.projectRef {
+    margin-top: -60px;
+    position:absolute;
 }
 
-.image1 {
-  width: 668px;
+img {
+    width: 100%;
 }
 
-.image2 {
-  width: 333px;
-}
-
-.image3 {
-  width: 221px;
-}
-
-.image4 {
-width: 165px;
-}
-
-.image6 {
-  width: 110px;
+.imageContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 5px;
 }
 
 .video1 {
@@ -163,7 +145,7 @@ width: 165px;
 }
 
 .yt_video1 {
-  width:668px;
+  width:100%;
   height: 375px;
   cursor:pointer;
 }
@@ -177,7 +159,7 @@ width: 165px;
 height: 392px;
 }
 
-.HetJeugdFilmFestival_img_1,.HetJeugdFilmFestival_img_1, {
+.HetJeugdFilmFestival_img_1.HetJeugdFilmFestival_img_1 {
 height: 302px;
 }
 
@@ -226,7 +208,7 @@ and (max-device-width : 1024px)
   #nav {
     display:none;
   }
-  .project_title {
+  .projectTitle {
    font-size: 22px;
    margin: 0px 0px 0px 0px;
    letter-spacing: 0;
@@ -234,23 +216,6 @@ and (max-device-width : 1024px)
 
  .image1 {
    width:100%;
- }
-
- .image2 {
-   width:calc((100% - 10px)/2);
-        margin:0;
- }
-
- .image3 {
-   width:calc((100% - 10px)/3);
- }
-
- .image4 {
- width:calc((100% - 10px)/2);
- }
-
- .image6 {
-   width:calc((100% - 10px)/3);
  }
 
     .video1 {
