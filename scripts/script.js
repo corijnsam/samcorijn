@@ -1,4 +1,4 @@
-fetch('content.json')
+fetch('data.json')
 .then(res => res.json())
 .then(data => {
   const container = document.getElementById('projectsContainer');
@@ -19,6 +19,7 @@ fetch('content.json')
     categoryDiv.appendChild(categoryRef);
 
     section.content.forEach(project => {
+      
       const projectDiv = document.createElement('div');
       projectDiv.className = 'project';
       //projectDiv.id = project.id;
@@ -48,11 +49,12 @@ fetch('content.json')
       imageContainer.className = 'imageContainer';
       (project.images || []).forEach(img => {
         const anchor = document.createElement('a');
-        anchor.href = `projects/High/${img.path}`;
+        anchor.href = `${img.path}`;
         anchor.target = '_blank';
       
         const image = document.createElement('img');
-        image.src = `projects/Low/${img.path}`;
+        image.src = `${img.pathLow}`;
+        image.loading="lazy"
       
         // Create container for the image(s) if not already inside one
         let imageContainer = projectDiv.querySelector('.imageContainer');
