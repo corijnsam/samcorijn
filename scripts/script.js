@@ -44,9 +44,8 @@ fetch('content.json')
       projectDiv.appendChild(projectTitle);
       projectDiv.appendChild(projectText);
 
-      // Create a container div for images with flexbox
       const imageContainer = document.createElement('div');
-      imageContainer.className = 'imageContainer'; // Will be a flex container
+      imageContainer.className = 'imageContainer';
       (project.images || []).forEach(img => {
         const anchor = document.createElement('a');
         anchor.href = `projects/High/${img.path}`;
