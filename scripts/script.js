@@ -1,4 +1,4 @@
-fetch('data.json')
+fetch('2025.json')
 .then(res => res.json())
 .then(data => {
   const container = document.getElementById('projectsContainer');
@@ -13,7 +13,10 @@ fetch('data.json')
 
     const categoryRef = document.createElement('div');
     categoryRef.className = 'categoryRef';
-    categoryRef.id = formatTitleToRef(section.header);
+    if(section.header) {
+      categoryRef.id = formatTitleToRef(section.header);
+      console.log(categoryRef.id)
+    }
 
     categoryDiv.appendChild(categoryTitle);
     categoryDiv.appendChild(categoryRef);
@@ -27,7 +30,6 @@ fetch('data.json')
       const projectRef = document.createElement('div');
       projectRef.className = 'projectRef';
       projectRef.id = formatTitleToRef(project.title);
-      console.log(projectRef.id);
 
       const projectTitle = document.createElement('p');
       projectTitle.className = 'projectTitle';
@@ -70,10 +72,9 @@ fetch('data.json')
           case 2:
             width = "calc(50% - 2.5px)"; break;
           case 3:
-            width = "calc(33% - 2.5px)";; break;
+            width = "calc(33% - 2.5px)"; break;
           case 4:
             width = "calc(25% - 2.5px)"; break;
-          case 1:
           default:
             width = '100%'; break;
         }
@@ -100,4 +101,8 @@ fetch('data.json')
 
 function formatTitleToRef(title) {
   return title.toLowerCase().replace(/\s+/g, '') + 'ref';
+}
+
+function loadNavigation() {
+
 }
