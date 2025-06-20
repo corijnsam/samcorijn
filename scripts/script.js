@@ -36,8 +36,9 @@ fetch('2025.json')
       projectTitle.innerHTML = `
         ${project.title}<br>
         ${project.subtitle}<br>
-        ${project.year}
       `;
+
+      //        ${project.year}
 
       const projectText = document.createElement('p');
       projectText.className = 'project_text';
@@ -45,7 +46,7 @@ fetch('2025.json')
 
       projectDiv.appendChild(projectRef);
       projectDiv.appendChild(projectTitle);
-      projectDiv.appendChild(projectText);
+      // projectDiv.appendChild(projectText);
 
       const imageContainer = document.createElement('div');
       imageContainer.className = 'imageContainer';
