@@ -195,6 +195,7 @@ and (max-device-width : 1024px)
   height: auto;
   width: 300px;
   letter-spacing: 0;
+  margin:0 0 0 10px;
   }
 
   #main {
