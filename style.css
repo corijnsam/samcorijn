@@ -19,6 +19,7 @@ body {
 a, a:visited, a:hover, a:active {
     text-decoration:none;
     color: #0000ff;
+    cursor: pointer;
 }
 
 #title {
@@ -59,7 +60,7 @@ ul {
 }
 
 li {
-    padding: 0 0 4px 0;
+    padding: 0 0 0px 0;
 }
 
 #contact p {
@@ -75,18 +76,20 @@ li {
 }
 
 .navTitle {
-    margin: 10px 0 0 0;
+    margin: 10px 0 4px 0;
+    display: inline-block;
 }
 
 .navLarge {
     line-height: 80%;
     display: block;
-    padding: 0 0 0 20px;
+    padding: 0 0 2px 20px;
     font-size: 25px;
 }
 
 .navSmall {
-    padding: 0 0 0 20px;
+    display: inline-block;
+    padding: 0 0 2px 20px;
 }
 
 #nav_posters {

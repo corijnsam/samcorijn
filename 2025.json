@@ -1,192 +1,230 @@
 [
+        {
+        "header": "PERSONAL WORK",
+        "content": [
+            {
+                "title": "Meer Tijd Samen",
+                "subtitle": "",
+                "year": "2025",
+                "description": "/",
+                "images": [
+                    {
+                        "path": "images/klok/klokV1.gif",
+                        "pathLow": "images/klok/klokV1.gif",
+                        "size": 1
+                    },
+                    {
+                        "path": "images/klok/klokV2.gif",
+                        "pathLow": "images/klok/klokV2.gif",
+                        "size": 1
+                    }
+                ]
+            }
+        ]
+    },
+        {
+        "header": "PROFESSIONAL WORK",
+        "content": [
+        ]
+    },
     {
         "header": "CAMPO",
         "content": [
             {
-                "title": "Najaar 2025",
+                "title": "Fall 2025",
                 "subtitle": "",
                 "year": "",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/07Najaar2025/1030X100PxCampoBannerAdvertentie.gif",
-                        "pathLow": "destination2025/07Najaar2025/1030X100PxCampoBannerAdvertentie_low.gif",
+                        "path": "images/07Najaar2025/1030X100PxCampoBannerAdvertentie.gif",
+                        "pathLow": "images/07Najaar2025/1030X100PxCampoBannerAdvertentie_low.gif",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/07Najaar2025/najaaar25FacebookOmslag.png",
-                        "pathLow": "destination2025/07Najaar2025/najaaar25FacebookOmslag_low.webp",
+                        "path": "images/07Najaar2025/najaaar25FacebookOmslag.png",
+                        "pathLow": "images/07Najaar2025/najaaar25FacebookOmslag_low.webp",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/07Najaar2025/najaar25Profielfoto.png",
-                        "pathLow": "destination2025/07Najaar2025/najaar25Profielfoto.png",
+                        "path": "images/07Najaar2025/najaar25Profielfoto.png",
+                        "pathLow": "images/07Najaar2025/najaar25Profielfoto.png",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/07Najaar2025/500X600CampoAdvertentie.gif",
-                        "pathLow": "destination2025/07Najaar2025/500X600CampoAdvertentie_low.gif",
+                        "path": "images/07Najaar2025/500X600CampoAdvertentie.gif",
+                        "pathLow": "images/07Najaar2025/500X600CampoAdvertentie_low.gif",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "Voorjaar 2025",
+                "title": "Spring 2025",
                 "subtitle": "",
                 "year": "",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/06Voorjaar2025/campoFacebookBannerVj2025.jpg",
-                        "pathLow": "destination2025/06Voorjaar2025/campoFacebookBannerVj2025.jpg",
+                        "path": "images/06Voorjaar2025/campoFacebookBannerVj2025.jpg",
+                        "pathLow": "images/06Voorjaar2025/campoFacebookBannerVj2025.jpg",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/06Voorjaar2025/campoProfielFotoVj2025.jpg",
-                        "pathLow": "destination2025/06Voorjaar2025/campoProfielFotoVj2025_low.webp",
+                        "path": "images/06Voorjaar2025/campoProfielFotoVj2025.jpg",
+                        "pathLow": "images/06Voorjaar2025/campoProfielFotoVj2025_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/06Voorjaar2025/samenKopie.jpg",
-                        "pathLow": "destination2025/06Voorjaar2025/samenKopie_low.webp",
+                        "path": "images/06Voorjaar2025/samenKopie.jpg",
+                        "pathLow": "images/06Voorjaar2025/samenKopie_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/06Voorjaar2025/posterGifjeV1.gif",
-                        "pathLow": "destination2025/06Voorjaar2025/posterGifjeV1_low.gif",
+                        "path": "images/06Voorjaar2025/posterGifjeV1.gif",
+                        "pathLow": "images/06Voorjaar2025/posterGifjeV1_low.gif",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/06Voorjaar2025/campoEtceteraVj2025.gif",
-                        "pathLow": "destination2025/06Voorjaar2025/campoEtceteraVj2025_low.gif",
+                        "path": "images/06Voorjaar2025/campoEtceteraVj2025.gif",
+                        "pathLow": "images/06Voorjaar2025/campoEtceteraVj2025_low.gif",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/06Voorjaar2025/campoEtceteraVj2025300X600Px.gif",
-                        "pathLow": "destination2025/06Voorjaar2025/campoEtceteraVj2025300X600Px_low.gif",
+                        "path": "images/06Voorjaar2025/campoEtceteraVj2025300X600Px.gif",
+                        "pathLow": "images/06Voorjaar2025/campoEtceteraVj2025300X600Px_low.gif",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "Najaar 2024",
+                "title": "Fall 2024",
                 "subtitle": "",
                 "year": "",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/05Najaar2024/campoProfielFoto.png",
-                        "pathLow": "destination2025/05Najaar2024/campoProfielFoto.png",
+                        "path": "images/05Najaar2024/najaar24poster.gif",
+                        "pathLow": "images/05Najaar2024/najaar24poster.gif",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/05Najaar2024/facebookBannerv2.jpg",
-                        "pathLow": "destination2025/05Najaar2024/facebookBannerv2.jpg",
-                        "size": 1
-                    },
-                    {
-                        "path": "destination2025/05Najaar2024/campoNieuwsbiefTeaserNajaar2024.gif",
-                        "pathLow": "destination2025/05Najaar2024/campoNieuwsbiefTeaserNajaar2024_low.gif",
+                        "path": "images/05Najaar2024/najaar24Etceterav2.gif",
+                        "pathLow": "images/05Najaar2024/najaar24Etceterav2_low.gif",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/05Najaar2024/najaar24Etceterav2.gif",
-                        "pathLow": "destination2025/05Najaar2024/najaar24Etceterav2_low.gif",
+                        "path": "images/05Najaar2024/card.jpg",
+                        "pathLow": "images/05Najaar2024/card.jpg",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/05Najaar2024/campoProfielFoto.png",
+                        "pathLow": "images/05Najaar2024/campoProfielFoto.png",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/05Najaar2024/campoNieuwsbiefTeaserNajaar2024.gif",
+                        "pathLow": "images/05Najaar2024/campoNieuwsbiefTeaserNajaar2024_low.gif",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "Voorjaar 2024",
+                "title": "Spring 2024",
                 "subtitle": "",
                 "year": "",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/04Voorjaar2024/7.png",
-                        "pathLow": "destination2025/04Voorjaar2024/7_low.webp",
+                        "path": "images/04Voorjaar2024/7.png",
+                        "pathLow": "images/04Voorjaar2024/7_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/04Voorjaar2024/9.png",
-                        "pathLow": "destination2025/04Voorjaar2024/9_low.webp",
+                        "path": "images/04Voorjaar2024/9.png",
+                        "pathLow": "images/04Voorjaar2024/9_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/04Voorjaar2024/programaInsta.gif",
-                        "pathLow": "destination2025/04Voorjaar2024/programaInsta_low.gif",
+                        "path": "images/04Voorjaar2024/programaInsta.gif",
+                        "pathLow": "images/04Voorjaar2024/programaInsta_low.gif",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/04Voorjaar2024/profielfoto.jpg",
-                        "pathLow": "destination2025/04Voorjaar2024/profielfoto_low.webp",
+                        "path": "images/04Voorjaar2024/profielfoto.jpg",
+                        "pathLow": "images/04Voorjaar2024/profielfoto_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/04Voorjaar2024/zweep.gif",
-                        "pathLow": "destination2025/04Voorjaar2024/zweep_low.gif",
+                        "path": "images/04Voorjaar2024/zweep.gif",
+                        "pathLow": "images/04Voorjaar2024/zweep_low.gif",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/04Voorjaar2024/bannerFb.png",
-                        "pathLow": "destination2025/04Voorjaar2024/bannerFb.png",
+                        "path": "images/04Voorjaar2024/bannerFb.png",
+                        "pathLow": "images/04Voorjaar2024/bannerFb.png",
                         "size": 1
                     }
                 ]
             },
             {
-                "title": "Najaar 2023",
+                "title": "Fall 2023",
                 "subtitle": "",
                 "year": "",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/03Najaar2023/corijnSam169477591531923342133022466431525383915.jpg",
-                        "pathLow": "destination2025/03Najaar2023/corijnSam169477591531923342133022466431525383915_low.webp",
+                        "path": "images/03Najaar2023/corijnSam169477591531923342133022466431525383915.jpg",
+                        "pathLow": "images/03Najaar2023/corijnSam169477591531923342133022466431525383915_low.webp",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/03Najaar2023/3F5Caaea720B45F49A5E655E71B374Ea.jpg",
-                        "pathLow": "destination2025/03Najaar2023/3F5Caaea720B45F49A5E655E71B374Ea_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/03Najaar2023/48799078212309909323630654061251662796521765N.jpg",
-                        "pathLow": "destination2025/03Najaar2023/48799078212309909323630654061251662796521765N_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/03Najaar2023/rectoVersoNieuwsbriefCampoSepDec.gif",
-                        "pathLow": "destination2025/03Najaar2023/rectoVersoNieuwsbriefCampoSepDec_low.gif",
+                        "path": "images/03Najaar2023/rectoVersoNieuwsbriefCampoSepDec.gif",
+                        "pathLow": "images/03Najaar2023/rectoVersoNieuwsbriefCampoSepDec_low.gif",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/03Najaar2023/campoHomeGif2.gif",
-                        "pathLow": "destination2025/03Najaar2023/campoHomeGif2_low.gif",
+                        "path": "images/03Najaar2023/3F5Caaea720B45F49A5E655E71B374Ea.jpg",
+                        "pathLow": "images/03Najaar2023/3F5Caaea720B45F49A5E655E71B374Ea_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/03Najaar2023/naajaarGifZwart.gif",
-                        "pathLow": "destination2025/03Najaar2023/naajaarGifZwart_low.gif",
+                        "path": "images/03Najaar2023/48799078212309909323630654061251662796521765N.jpg",
+                        "pathLow": "images/03Najaar2023/48799078212309909323630654061251662796521765N_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/03Najaar2023/campoHomeGif2.gif",
+                        "pathLow": "images/03Najaar2023/campoHomeGif2_low.gif",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/03Najaar2023/naajaarGifZwart.gif",
+                        "pathLow": "images/03Najaar2023/naajaarGifZwart_low.gif",
                         "size": 2
                     }
 
                 ]
             },
             {
-                "title": "Voorjaar 2023",
+                "title": "Spring 2023",
                 "subtitle": "",
                 "year": "",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/02Voorjaar2023/img7348.JPG",
-                        "pathLow": "destination2025/02Voorjaar2023/img7348.JPG",
+                        "path": "images/02Voorjaar2023/campo2023.png",
+                        "pathLow": "images/02Voorjaar2023/campo2023.png",
+                        "size": 1
+                    },
+                    {
+                        "path": "images/02Voorjaar2023/img7348.JPG",
+                        "pathLow": "images/02Voorjaar2023/img7348.JPG",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/02Voorjaar2023/img8512.jpg",
-                        "pathLow": "destination2025/02Voorjaar2023/img8512_low.webp",
+                        "path": "images/02Voorjaar2023/img8512.jpg",
+                        "pathLow": "images/02Voorjaar2023/img8512_low.webp",
                         "size": 2
                     }
                 ]
@@ -203,103 +241,83 @@
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/aDonkey'STale/photo.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/photo_low.webp",
+                        "path": "images/aDonkey'STale/photo.jpg",
+                        "pathLow": "images/aDonkey'STale/photo_low.webp",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/donkeysPost.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost_low.webp",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/1.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/1_low.webp",
+                        "path": "images/aDonkey'STale/2.jpg",
+                        "pathLow": "images/aDonkey'STale/2_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/aDonkey'STale/3.jpg",
+                        "pathLow": "images/aDonkey'STale/3_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/aDonkey'STale/5.jpg",
+                        "pathLow": "images/aDonkey'STale/5_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/aDonkey'STale/8.jpg",
+                        "pathLow": "images/aDonkey'STale/8_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/aDonkey'STale/donkeysPost2.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost2_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/2.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/2_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost10.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost10_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/3.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/3_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost3.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost3_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/4.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/4_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost4.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost4_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/5.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/5_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost5.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost5_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/6.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/6_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost6.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost6_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/7.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/7_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost7.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost7_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/8.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/8_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost8.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost8_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/donkeysPost10.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost10_low.webp",
+                        "path": "images/aDonkey'STale/donkeysPost9.png",
+                        "pathLow": "images/aDonkey'STale/donkeysPost9_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aDonkey'STale/donkeysPost2.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost2_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/donkeysPost3.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost3_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/donkeysPost4.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost4_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/donkeysPost5.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost5_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/donkeysPost6.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost6_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/donkeysPost7.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost7_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/donkeysPost8.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost8_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/donkeysPost9.png",
-                        "pathLow": "destination2025/aDonkey'STale/donkeysPost9_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/aDonkey'STale/eindeBinnen.jpg",
-                        "pathLow": "destination2025/aDonkey'STale/eindeBinnen_low.webp",
+                        "path": "images/aDonkey'STale/eindeBinnen.jpg",
+                        "pathLow": "images/aDonkey'STale/eindeBinnen_low.webp",
                         "size": 2
                     }
                 ]
@@ -311,96 +329,96 @@
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta1.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta1.png",
+                        "path": "images/antoonDeClerck/scarePostInsta1.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta1.png",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta110.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta110_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta12.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta12_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta12.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta12_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta110.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta110_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta13.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta13_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta13.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta13_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta14.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta14_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta14.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta14_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta15.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta15_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta15.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta15_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta16.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta16_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta16.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta16_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta17.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta17_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta17.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta17_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta18.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta18_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta18.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta18_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/scarePostInsta19.png",
-                        "pathLow": "destination2025/antoonDeClerck/scarePostInsta19_low.webp",
+                        "path": "images/antoonDeClerck/scarePostInsta19.png",
+                        "pathLow": "images/antoonDeClerck/scarePostInsta19_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/acdGif.gif",
-                        "pathLow": "destination2025/antoonDeClerck/acdGif_low.gif",
+                        "path": "images/antoonDeClerck/acdGif.gif",
+                        "pathLow": "images/antoonDeClerck/acdGif_low.gif",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/bezoek.jpg",
-                        "pathLow": "destination2025/antoonDeClerck/bezoek_low.webp",
+                        "path": "images/antoonDeClerck/bezoek.jpg",
+                        "pathLow": "images/antoonDeClerck/bezoek_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/openingShot.jpg",
-                        "pathLow": "destination2025/antoonDeClerck/openingShot_low.webp",
+                        "path": "images/antoonDeClerck/openingShot.jpg",
+                        "pathLow": "images/antoonDeClerck/openingShot_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/wandEdoard.jpg",
-                        "pathLow": "destination2025/antoonDeClerck/wandEdoard_low.webp",
+                        "path": "images/antoonDeClerck/wandEdoard.jpg",
+                        "pathLow": "images/antoonDeClerck/wandEdoard_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/antoonDeClerck/adcAffiche.jpg",
-                        "pathLow": "destination2025/antoonDeClerck/adcAffiche_low.webp",
+                        "path": "images/antoonDeClerck/adcAffiche.jpg",
+                        "pathLow": "images/antoonDeClerck/adcAffiche_low.webp",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "bewogenJaren",
+                "title": "Bewogen Jaren",
                 "subtitle": "",
                 "year": "2022",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/bewogenJaren/700E5BbfF23648CdB034560Ee0Cf3532.jpg",
-                        "pathLow": "destination2025/bewogenJaren/700E5BbfF23648CdB034560Ee0Cf3532_low.webp",
+                        "path": "images/bewogenJaren/700E5BbfF23648CdB034560Ee0Cf3532.jpg",
+                        "pathLow": "images/bewogenJaren/700E5BbfF23648CdB034560Ee0Cf3532_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/bewogenJaren/boekCover.jpg",
-                        "pathLow": "destination2025/bewogenJaren/boekCover_low.webp",
+                        "path": "images/bewogenJaren/boekCover.jpg",
+                        "pathLow": "images/bewogenJaren/boekCover_low.webp",
                         "size": 2
                     }
                 ]
@@ -412,395 +430,179 @@
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/aliceBogaerts/spread1.png",
-                        "pathLow": "destination2025/aliceBogaerts/spread1_low.webp",
+                        "path": "images/aliceBogaerts/spread1.png",
+                        "pathLow": "images/aliceBogaerts/spread1_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aliceBogaerts/spread13.png",
-                        "pathLow": "destination2025/aliceBogaerts/spread13_low.webp",
+                        "path": "images/aliceBogaerts/spread13.png",
+                        "pathLow": "images/aliceBogaerts/spread13_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aliceBogaerts/spread15.png",
-                        "pathLow": "destination2025/aliceBogaerts/spread15_low.webp",
+                        "path": "images/aliceBogaerts/spread15.png",
+                        "pathLow": "images/aliceBogaerts/spread15_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aliceBogaerts/spread2.png",
-                        "pathLow": "destination2025/aliceBogaerts/spread2_low.webp",
+                        "path": "images/aliceBogaerts/spread2.png",
+                        "pathLow": "images/aliceBogaerts/spread2_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aliceBogaerts/spread7.png",
-                        "pathLow": "destination2025/aliceBogaerts/spread7_low.webp",
+                        "path": "images/aliceBogaerts/spread7.png",
+                        "pathLow": "images/aliceBogaerts/spread7_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/aliceBogaerts/spread8.png",
-                        "pathLow": "destination2025/aliceBogaerts/spread8_low.webp",
+                        "path": "images/aliceBogaerts/spread8.png",
+                        "pathLow": "images/aliceBogaerts/spread8_low.webp",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "theCollectiveSpark",
+                "title": "The Collective Spark",
                 "subtitle": "",
                 "year": "2022",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/theCollectiveSpark/boekVover.JPG",
-                        "pathLow": "destination2025/theCollectiveSpark/boekVover_low.webp",
+                        "path": "images/theCollectiveSpark/boekVover.JPG",
+                        "pathLow": "images/theCollectiveSpark/boekVover_low.webp",
                         "size": 1
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/boekOpen.JPG",
-                        "pathLow": "destination2025/theCollectiveSpark/boekOpen_low.webp",
+                        "path": "images/theCollectiveSpark/boekOpen.JPG",
+                        "pathLow": "images/theCollectiveSpark/boekOpen_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/comp3.png",
-                        "pathLow": "destination2025/theCollectiveSpark/comp3_low.webp",
+                        "path": "images/theCollectiveSpark/comp3.png",
+                        "pathLow": "images/theCollectiveSpark/comp3_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/spread11.jpg",
-                        "pathLow": "destination2025/theCollectiveSpark/spread11_low.webp",
+                        "path": "images/theCollectiveSpark/spread11.jpg",
+                        "pathLow": "images/theCollectiveSpark/spread11_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/spread13.jpg",
-                        "pathLow": "destination2025/theCollectiveSpark/spread13_low.webp",
+                        "path": "images/theCollectiveSpark/spread13.jpg",
+                        "pathLow": "images/theCollectiveSpark/spread13_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/spread2.jpg",
-                        "pathLow": "destination2025/theCollectiveSpark/spread2_low.webp",
+                        "path": "images/theCollectiveSpark/spread2.jpg",
+                        "pathLow": "images/theCollectiveSpark/spread2_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/spread20.jpg",
-                        "pathLow": "destination2025/theCollectiveSpark/spread20_low.webp",
+                        "path": "images/theCollectiveSpark/spread20.jpg",
+                        "pathLow": "images/theCollectiveSpark/spread20_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/spread25.jpg",
-                        "pathLow": "destination2025/theCollectiveSpark/spread25_low.webp",
+                        "path": "images/theCollectiveSpark/spread25.jpg",
+                        "pathLow": "images/theCollectiveSpark/spread25_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/theCollectiveSpark/spread5.jpg",
-                        "pathLow": "destination2025/theCollectiveSpark/spread5_low.webp",
+                        "path": "images/theCollectiveSpark/spread5.jpg",
+                        "pathLow": "images/theCollectiveSpark/spread5_low.webp",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "ufoBoek",
+                "title": "Ongeveer Zo Iets",
                 "subtitle": "",
                 "year": "2021",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets1.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets1_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets1.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets1_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets10.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets10_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets2.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets2_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets11.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets11_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets3.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets3_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets12.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets12_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets4.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets4_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets13.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets13_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets5.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets5_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets14.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets14_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets6.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets6_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets15.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets15_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets7.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets7_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets16.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets16_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets8.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets8_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets17.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets17_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets9.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets9_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets2.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets2_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets10.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets10_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets3.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets3_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets11.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets11_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets4.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets4_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets12.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets12_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets5.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets5_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets13.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets13_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets6.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets6_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets14.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets14_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets7.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets7_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets15.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets15_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets8.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets8_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets16.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets16_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/ufoBoek/ongeveerzoiets9.png",
-                        "pathLow": "destination2025/ufoBoek/ongeveerzoiets9_low.webp",
-                        "size": 2
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "header": "GRADUATION",
-        "content": [
-            {
-                "title": "Graduation project - Master graphic design",
-                "subtitle": "",
-                "year": "2022",
-                "description": "/",
-                "images": [
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20221.jpg",
-                        "pathLow": "destination2025/masterproject2022/masterproject20221_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject202210.jpg",
-                        "pathLow": "destination2025/masterproject2022/masterproject202210_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20222.jpg",
-                        "pathLow": "destination2025/masterproject2022/masterproject20222_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20223.JPG",
-                        "pathLow": "destination2025/masterproject2022/masterproject20223_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20224.JPG",
-                        "pathLow": "destination2025/masterproject2022/masterproject20224_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20225.JPG",
-                        "pathLow": "destination2025/masterproject2022/masterproject20225_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20226.JPG",
-                        "pathLow": "destination2025/masterproject2022/masterproject20226_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20227.jpg",
-                        "pathLow": "destination2025/masterproject2022/masterproject20227_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20228.jpg",
-                        "pathLow": "destination2025/masterproject2022/masterproject20228_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/masterproject2022/masterproject20229.JPG",
-                        "pathLow": "destination2025/masterproject2022/masterproject20229_low.webp",
-                        "size": 2
-                    }
-                ]
-            },
-            {
-                "title": "Celebrate The Progress",
-                "subtitle": "Graduation project visual design",
-                "year": "2020",
-                "description": "/",
-                "images": [
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters1.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters1_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters2.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters2_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters3.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters3_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters4.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters4_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters5.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters5_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters6.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters6_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters7.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters7_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/albumReleasePosters.gif",
-                        "pathLow": "destination2025/celebrateTheProgress/albumReleasePosters_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/closeUpA.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/closeUpA_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/closeUpB.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/closeUpB_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/innersleeve.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/innersleeve_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/innersleeveAndLp.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/innersleeveAndLp_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/lpPackage.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/lpPackage_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/innersleeveBack.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/innersleeveBack_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/labelSiedeA.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/labelSiedeA_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/labelSiedeB.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/labelSiedeB_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/lpPackageBack.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/lpPackageBack_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/openLpSun.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/openLpSun_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/posterStep5.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/posterStep5_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/recordplayerAndLp.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/recordplayerAndLp_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread1+Foto.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread1+Foto_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread1.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread1_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread2+Foto.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread2+Foto_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread2.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread2_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread3+Foto.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread3+Foto_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread3.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread3_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread4+Foto.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread4+Foto_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/spread4.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/spread4_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/celebrateTheProgress/bookStand.jpg",
-                        "pathLow": "destination2025/celebrateTheProgress/bookStand_low.webp",
+                        "path": "images/ufoBoek/ongeveerzoiets17.png",
+                        "pathLow": "images/ufoBoek/ongeveerzoiets17_low.webp",
                         "size": 2
                     }
                 ]
@@ -812,352 +614,539 @@
         "content": [
             {
                 "title": "Stir The Melting Pot",
-                "subtitle": "",
-                "year": "2020",
+                "subtitle": "Together with Jules Van Rijsselberge & Loriene Lemmens",
+                "year": "2019",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/stirTheMeltingPot/bbvHomepageImg2.png",
-                        "pathLow": "destination2025/stirTheMeltingPot/bbvHomepageImg2_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot1.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot1_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot25.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot25_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot22.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot22_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot23.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot23_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot24.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot24_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot3.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot3_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot7.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot7_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot8.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot8_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPot2.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPot2_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScan1Bbv.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScan1Bbv_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanBack.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanBack_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanCover.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanCover_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanDigitale.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanDigitale_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanReclame.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanReclame_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanReclameIntro.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanReclameIntro_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanStill.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanStill_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanStudio'S.jpg",
-                        "pathLow": "destination2025/stirTheMeltingPot/stirTheMeltingPotScanStudio'S_low.webp",
-                        "size": 2
-                    }
-                ]
-            },
-            {
-                "title": "dauwtrip",
-                "subtitle": "",
-                "year": "2020",
-                "description": "/",
-                "images": [
-                    {
-                        "path": "destination2025/dauwtrip/dauwtrip1.jpg",
-                        "pathLow": "destination2025/dauwtrip/dauwtrip1_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/dauwtrip/dauwtrip2.jpg",
-                        "pathLow": "destination2025/dauwtrip/dauwtrip2_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/dauwtrip/dauwtrip3.jpg",
-                        "pathLow": "destination2025/dauwtrip/dauwtrip3_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/dauwtrip/dauwtrip4.jpg",
-                        "pathLow": "destination2025/dauwtrip/dauwtrip4_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/dauwtrip/dauwtrip5.jpg",
-                        "pathLow": "destination2025/dauwtrip/dauwtrip5_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/dauwtrip/dauwtripLogoAnimatieSamCorijn.gif",
-                        "pathLow": "destination2025/dauwtrip/dauwtripLogoAnimatieSamCorijn_low.gif",
-                        "size": 2
-                    }
-                ]
-            },
-            {
-                "title": "deTank",
-                "subtitle": "",
-                "year": "2020",
-                "description": "/",
-                "images": [
-                    {
-                        "path": "destination2025/deTank/deTank.png",
-                        "pathLow": "destination2025/deTank/deTank.png",
-                        "size": 1
-                    }
-                ]
-            },
-            {
-                "title": "hushHush",
-                "subtitle": "",
-                "year": "2020",
-                "description": "/",
-                "images": [
-                    {
-                        "path": "destination2025/hushHush/1.jpg",
-                        "pathLow": "destination2025/hushHush/1.jpg",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/hushHush/3.png",
-                        "pathLow": "destination2025/hushHush/3.png",
-                        "size": 2
-                    },
-                                        {
-                        "path": "destination2025/hushHush/4.jpg",
-                        "pathLow": "destination2025/hushHush/4.jpg",
+                        "path": "images/stirTheMeltingPot/bbvHomepageImg2.png",
+                        "pathLow": "images/stirTheMeltingPot/bbvHomepageImg2.png",
                         "size": 1
                     },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPot24.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPot24_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPot25.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPot25_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPot22.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPot22_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPot23.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPot23_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPot7.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPot7_low.webp",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPot8.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPot8_low.webp",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPot2.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPot2_low.webp",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScan1Bbv.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScan1Bbv_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScanBack.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScanBack_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScanCover.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScanCover_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScanDigitale.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScanDigitale_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScanReclame.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScanReclame_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScanReclameIntro.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScanReclameIntro_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScanStill.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScanStill_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/stirTheMeltingPot/stirTheMeltingPotScanStudio'S.jpg",
+                        "pathLow": "images/stirTheMeltingPot/stirTheMeltingPotScanStudio'S_low.webp",
+                        "size": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "IDENTITY",
+        "content": [
+            {
+                "title": "Hush/Hush",
+                "subtitle": "",
+                "year": "2024",
+                "description": "/",
+                "images": [
                                         {
-                        "path": "destination2025/hushHush/5.jpg",
-                        "pathLow": "destination2025/hushHush/5.jpg",
+                        "path": "images/hushHush/4.jpg",
+                        "pathLow": "images/hushHush/4.jpg",
+                        "size": 1
+                    },
+                    {
+                        "path": "images/hushHush/1.jpg",
+                        "pathLow": "images/hushHush/1.jpg",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/hushHush/3.png",
+                        "pathLow": "images/hushHush/3.png",
                         "size": 2
                     },
                                         {
-                        "path": "destination2025/hushHush/6.jpg",
-                        "pathLow": "destination2025/hushHush/6.jpg",
-                        "size": 2
+                        "path": "images/hushHush/5.jpg",
+                        "pathLow": "images/hushHush/5.jpg",
+                        "size": 4
                     },
                                         {
-                        "path": "destination2025/hushHush/7.jpg",
-                        "pathLow": "destination2025/hushHush/7.jpg",
-                        "size": 2
+                        "path": "images/hushHush/6.jpg",
+                        "pathLow": "images/hushHush/6.jpg",
+                        "size": 4
                     },
                                         {
-                        "path": "destination2025/hushHush/8.jpg",
-                        "pathLow": "destination2025/hushHush/8.jpg",
+                        "path": "images/hushHush/7.jpg",
+                        "pathLow": "images/hushHush/7.jpg",
+                        "size": 4
+                    },
+                                        {
+                        "path": "images/hushHush/8.jpg",
+                        "pathLow": "images/hushHush/8.jpg",
+                        "size": 4
+                    }
+                ]
+            },
+            {
+                "title": "Nerdlab Toolbox",
+                "subtitle": "",
+                "year": "2023",
+                "description": "/",
+                "images": [
+                    {
+                        "path": "images/nerdlab/nerdlabLogoZwart.gif",
+                        "pathLow": "images/nerdlab/nerdlabLogoZwart_low.gif",
+                        "size": 1
+                    },
+                    {
+                        "path": "images/nerdlab/3DProfiel.gif",
+                        "pathLow": "images/nerdlab/3DProfiel_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/nRood.gif",
+                        "pathLow": "images/nerdlab/nRood_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/nerdlabBril.gif",
+                        "pathLow": "images/nerdlab/nerdlabBril_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/pixlFadeInOut.gif",
+                        "pathLow": "images/nerdlab/pixlFadeInOut_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/postIt.gif",
+                        "pathLow": "images/nerdlab/postIt_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/roodEnBlauwBlob.gif",
+                        "pathLow": "images/nerdlab/roodEnBlauwBlob_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/rotatingProfielRood.gif",
+                        "pathLow": "images/nerdlab/rotatingProfielRood_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/squareRotateBlauw.gif",
+                        "pathLow": "images/nerdlab/squareRotateBlauw_low.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/nerdlab/tandwielGrijs.gif",
+                        "pathLow": "images/nerdlab/tandwielGrijs_low.gif",
+                        "size": 3
+                    }
+                ]
+            },
+               {
+                "title": "Dauwtrip",
+                "subtitle": "",
+                "year": "2022",
+                "description": "/",
+                "images": [
+                    {
+                        "path": "images/dauwtrip/dauwtripLogoAnimatieSamCorijn.gif",
+                        "pathLow": "images/dauwtrip/dauwtripLogoAnimatieSamCorijn_low.gif",
+                        "size": 1
+                    },
+                    {
+                        "path": "images/dauwtrip/dauwtrip1.jpg",
+                        "pathLow": "images/dauwtrip/dauwtrip1_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/dauwtrip/dauwtrip2.jpg",
+                        "pathLow": "images/dauwtrip/dauwtrip2_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/dauwtrip/dauwtrip5.jpg",
+                        "pathLow": "images/dauwtrip/dauwtrip5_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/dauwtrip/dauwtrip4.jpg",
+                        "pathLow": "images/dauwtrip/dauwtrip4_low.webp",
+                        "size": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "EVENTS",
+        "content": [
+            {
+                "title": "Signaal 2024",
+                "subtitle": "Together with Sam Dekocker",
+                "year": "",
+                "description": "/",
+                "images": [
+                    {
+                        "path": "images/signaal2024/signaal2024Affiche108112024.jpg",
+                        "pathLow": "images/signaal2024/signaal2024Affiche108112024_low.webp",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/signaal2024/signaal2024Affiche208112024.jpg",
+                        "pathLow": "images/signaal2024/signaal2024Affiche208112024_low.webp",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/signaal2024/signaal2024Affiche308112024.jpg",
+                        "pathLow": "images/signaal2024/signaal2024Affiche308112024_low.webp",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/signaal2024/signaalPost01.png",
+                        "pathLow": "images/signaal2024/signaalPost01_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/signaal2024/signaalPost06.png",
+                        "pathLow": "images/signaal2024/signaalPost06_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/signaal2024/signaalPost05.png",
+                        "pathLow": "images/signaal2024/signaalPost05_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/signaal2024/signaalPost04.png",
+                        "pathLow": "images/signaal2024/signaalPost04_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/signaal2024/signaalPost02.png",
+                        "pathLow": "images/signaal2024/signaalPost02_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/signaal2024/signaalPost03.png",
+                        "pathLow": "images/signaal2024/signaalPost03_low.webp",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "nerdlab",
-                "subtitle": "",
-                "year": "2020",
+                "title": "Signaal 2023",
+                "subtitle": "Together with Sam Dekocker",
+                "year": "",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/nerdlab/3DProfiel.gif",
-                        "pathLow": "destination2025/nerdlab/3DProfiel_low.gif",
+                        "path": "images/signaal2023/samcorijnSignaalradiofestivalseries.jpg",
+                        "pathLow": "images/signaal2023/samcorijnSignaalradiofestivalseries_low.webp",
+                        "size": 1
+                    },
+                    {
+                        "path": "images/signaal2023/affichesLangwerpig.jpg",
+                        "pathLow": "images/signaal2023/affichesLangwerpig.jpg",
+                        "size": 1
+                    },
+                    {
+                        "path": "images/signaal2023/9V2.jpg",
+                        "pathLow": "images/signaal2023/9V2_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/nerdlab/nRood.gif",
-                        "pathLow": "destination2025/nerdlab/nRood_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/nerdlabBril.gif",
-                        "pathLow": "destination2025/nerdlab/nerdlabBril_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/nerdlabLogoZwart.gif",
-                        "pathLow": "destination2025/nerdlab/nerdlabLogoZwart_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/pixlFadeInOut.gif",
-                        "pathLow": "destination2025/nerdlab/pixlFadeInOut_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/postIt.gif",
-                        "pathLow": "destination2025/nerdlab/postIt_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/roodEnBlauwBlob.gif",
-                        "pathLow": "destination2025/nerdlab/roodEnBlauwBlob_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/rotatingProfielRood.gif",
-                        "pathLow": "destination2025/nerdlab/rotatingProfielRood_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/squareRotateBlauw.gif",
-                        "pathLow": "destination2025/nerdlab/squareRotateBlauw_low.gif",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/nerdlab/tandwielGrijs.gif",
-                        "pathLow": "destination2025/nerdlab/tandwielGrijs_low.gif",
-                        "size": 2
-                    }
-                ]
-            },
-{
-                "title": "signaal2023",
-                "subtitle": "",
-                "year": "2020",
-                "description": "/",
-                "images": [
-                    {
-                        "path": "destination2025/signaal2023/9V2.jpg",
-                        "pathLow": "destination2025/signaal2023/9V2_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/signaal2023/a2SignaalAffiche1Druk.png",
-                        "pathLow": "destination2025/signaal2023/a2SignaalAffiche1Druk_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/signaal2023/affichesLangwerpig.jpg",
-                        "pathLow": "destination2025/signaal2023/affichesLangwerpig_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/signaal2023/posterPilaar.png",
-                        "pathLow": "destination2025/signaal2023/posterPilaar_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/signaal2023/posterPilaarTransformed.png",
-                        "pathLow": "destination2025/signaal2023/posterPilaarTransformed_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/signaal2023/samcorijnSignaalradiofestivalseries.jpg",
-                        "pathLow": "destination2025/signaal2023/samcorijnSignaalradiofestivalseries_low.webp",
-                        "size": 2
-                    },
-                    {
-                        "path": "destination2025/signaal2023/signaalPilarFinal.png",
-                        "pathLow": "destination2025/signaal2023/signaalPilarFinal_low.webp",
+                        "path": "images/signaal2023/signaalPilarFinal.png",
+                        "pathLow": "images/signaal2023/signaalPilarFinal_low.webp",
                         "size": 2
                     }
                 ]
             },
             {
-                "title": "signaal2024",
+                "title": "De Tank",
+                "subtitle": "Open Ateliers",
+                "year": "2023 - 2025",
+                "description": "/",
+                "images": [
+                    {
+                        "path": "images/deTank/deTank.png",
+                        "pathLow": "images/deTank/deTank.png",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/deTank/openAteliers2024.gif",
+                        "pathLow": "images/deTank/openAteliers2024.gif",
+                        "size": 3
+                    },
+                    {
+                        "path": "images/deTank/OpenAteliers2025.jpg",
+                        "pathLow": "images/deTank/OpenAteliers2025.jpg",
+                        "size": 3
+                    }
+
+                ]
+            }
+        ]
+    },
+    {
+        "header": "THESIS",
+        "content": [
+            {
+                "title": "Graduation project - Master graphic design",
                 "subtitle": "",
+                "year": "2022",
+                "description": "/",
+                "images": [
+                    {
+                        "path": "images/masterproject2022/masterproject20221.jpg",
+                        "pathLow": "images/masterproject2022/masterproject20221_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject202210.jpg",
+                        "pathLow": "images/masterproject2022/masterproject202210_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20222.jpg",
+                        "pathLow": "images/masterproject2022/masterproject20222_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20223.JPG",
+                        "pathLow": "images/masterproject2022/masterproject20223_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20224.JPG",
+                        "pathLow": "images/masterproject2022/masterproject20224_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20225.JPG",
+                        "pathLow": "images/masterproject2022/masterproject20225_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20226.JPG",
+                        "pathLow": "images/masterproject2022/masterproject20226_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20227.jpg",
+                        "pathLow": "images/masterproject2022/masterproject20227_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20228.jpg",
+                        "pathLow": "images/masterproject2022/masterproject20228_low.webp",
+                        "size": 2
+                    },
+                    {
+                        "path": "images/masterproject2022/masterproject20229.JPG",
+                        "pathLow": "images/masterproject2022/masterproject20229_low.webp",
+                        "size": 2
+                    }
+                ]
+            },
+            {
+                "title": "Celebrate The Progress",
+                "subtitle": "Graduation project visual design",
                 "year": "2020",
                 "description": "/",
                 "images": [
                     {
-                        "path": "destination2025/signaal2024/signaal2024Affiche108112024.jpg",
-                        "pathLow": "destination2025/signaal2024/signaal2024Affiche108112024_low.webp",
+                        "path": "images/celebrateTheProgress/albumReleasePosters1.jpg",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters1_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/albumReleasePosters2.jpg",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters2_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/albumReleasePosters3.jpg",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters3_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/albumReleasePosters4.jpg",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters4_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/albumReleasePosters5.jpg",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters5_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/albumReleasePosters6.jpg",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters6_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/albumReleasePosters7.jpg",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters7_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/albumReleasePosters.gif",
+                        "pathLow": "images/celebrateTheProgress/albumReleasePosters_low.gif",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/closeUpA.jpg",
+                        "pathLow": "images/celebrateTheProgress/closeUpA_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/signaal2024/signaal2024Affiche208112024.jpg",
-                        "pathLow": "destination2025/signaal2024/signaal2024Affiche208112024_low.webp",
+                        "path": "images/celebrateTheProgress/closeUpB.jpg",
+                        "pathLow": "images/celebrateTheProgress/closeUpB_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/signaal2024/signaal2024Affiche308112024.jpg",
-                        "pathLow": "destination2025/signaal2024/signaal2024Affiche308112024_low.webp",
+                        "path": "images/celebrateTheProgress/innersleeve.jpg",
+                        "pathLow": "images/celebrateTheProgress/innersleeve_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/innersleeveAndLp.jpg",
+                        "pathLow": "images/celebrateTheProgress/innersleeveAndLp_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/lpPackage.jpg",
+                        "pathLow": "images/celebrateTheProgress/lpPackage_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/innersleeveBack.jpg",
+                        "pathLow": "images/celebrateTheProgress/innersleeveBack_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/bookStand.jpg",
+                        "pathLow": "images/celebrateTheProgress/bookStand_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/signaal2024/signaalPost01.png",
-                        "pathLow": "destination2025/signaal2024/signaalPost01_low.webp",
+                        "path": "images/celebrateTheProgress/openLpSun.jpg",
+                        "pathLow": "images/celebrateTheProgress/openLpSun_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/signaal2024/signaalPost02.png",
-                        "pathLow": "destination2025/signaal2024/signaalPost02_low.webp",
+                        "path": "images/celebrateTheProgress/posterStep5.jpg",
+                        "pathLow": "images/celebrateTheProgress/posterStep5_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/signaal2024/signaalPost03.png",
-                        "pathLow": "destination2025/signaal2024/signaalPost03_low.webp",
+                        "path": "images/celebrateTheProgress/recordplayerAndLp.jpg",
+                        "pathLow": "images/celebrateTheProgress/recordplayerAndLp_low.webp",
                         "size": 2
                     },
                     {
-                        "path": "destination2025/signaal2024/signaalPost04.png",
-                        "pathLow": "destination2025/signaal2024/signaalPost04_low.webp",
-                        "size": 2
+                        "path": "images/celebrateTheProgress/spread1+Foto.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread1+Foto_low.webp",
+                        "size": 4
                     },
                     {
-                        "path": "destination2025/signaal2024/signaalPost05.png",
-                        "pathLow": "destination2025/signaal2024/signaalPost05_low.webp",
-                        "size": 2
+                        "path": "images/celebrateTheProgress/spread1.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread1_low.webp",
+                        "size": 4
                     },
                     {
-                        "path": "destination2025/signaal2024/signaalPost06.png",
-                        "pathLow": "destination2025/signaal2024/signaalPost06_low.webp",
-                        "size": 2
+                        "path": "images/celebrateTheProgress/spread2+Foto.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread2+Foto_low.webp",
+                        "size": 4
                     },
                     {
-                        "path": "destination2025/signaal2024/signaalPost07.png",
-                        "pathLow": "destination2025/signaal2024/signaalPost07_low.webp",
-                        "size": 2
+                        "path": "images/celebrateTheProgress/spread2.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread2_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/spread3+Foto.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread3+Foto_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/spread3.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread3_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/spread4+Foto.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread4+Foto_low.webp",
+                        "size": 4
+                    },
+                    {
+                        "path": "images/celebrateTheProgress/spread4.jpg",
+                        "pathLow": "images/celebrateTheProgress/spread4_low.webp",
+                        "size": 4
                     }
                 ]
             }

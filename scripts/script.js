@@ -38,18 +38,19 @@ fetch('2025.json')
       const projectTitle = document.createElement('p');
       projectTitle.className = 'projectTitle';
 
-      if(project.year === "") {
-      projectTitle.innerHTML = `
-        ${project.title}<br>
-        ${project.subtitle}<br><brW
-      `;   
-      } else {
-        projectTitle.innerHTML = `
-        ${project.title}<br>
-        ${project.subtitle}<br>
-        ${project.year}<br><br>
-      `;
+      let content = `${project.title}<br><br>`;
+
+      // Append year if it's not empty
+      if (project.year) {
+        content += `${project.year}<br><br>`;
       }
+
+      // Append subtitle if it's not empty
+      if (project.subtitle) {
+        content += `${project.subtitle}<br><br>`;
+      }
+
+      projectTitle.innerHTML = content;
 
       const projectText = document.createElement('p');
       projectText.className = 'project_text';
@@ -86,7 +87,7 @@ fetch('2025.json')
           case 3:
             width = "calc(33% - 2.5px)"; break;
           case 4:
-            width = "calc(25% - 2.5px)"; break;
+            width = "calc(25% - 4px)"; break;
           default:
             width = '100%'; break;
         }
@@ -113,7 +114,7 @@ fetch('2025.json')
 .catch(err => console.error('Error loading projects:', err));
 
 function formatTitleToRef(title) {
-  return title.toLowerCase().replace(/\s+/g, '') + 'ref';
+  return title.toLowerCase().replace(/\s+/g, '');
 }
 
 function generateNavigation() {
@@ -128,8 +129,11 @@ function generateNavigation() {
   navLink.href = `#${navigationItem.ref}`;
   navLink.innerHTML = navigationItem.title;
 
-  navItem.appendChild(navLink);
+  console.log(navigationItem.title);
+    navItem.appendChild(navLink);
 
-  work.after(navLink)
+  if(navigationItem.title != "PERSONAL WORK" && navigationItem.title != "PROFESSIONAL WORK") {
+     work.after(navLink)
+    }
   });
 }
