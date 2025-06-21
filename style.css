@@ -33,7 +33,7 @@ a, a:visited, a:hover, a:active {
 #main {
     top:0;
     margin: 70px auto 0 auto;
-    width:45vw;
+    width:35vw;
 }
 
 #navigation {
@@ -108,7 +108,7 @@ li {
 }
 
 .project {
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 .projectTitle {

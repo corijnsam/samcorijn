@@ -1,3 +1,5 @@
+navigation = [];
+
 fetch('2025.json')
 .then(res => res.json())
 .then(data => {
@@ -14,8 +16,10 @@ fetch('2025.json')
     const categoryRef = document.createElement('div');
     categoryRef.className = 'categoryRef';
     if(section.header) {
-      categoryRef.id = formatTitleToRef(section.header);
-      console.log(categoryRef.id)
+      const headerRef = formatTitleToRef(section.header);
+      categoryRef.id = headerRef;
+      const headerTitle = section.header;
+      navigation.push({"title": headerTitle, "ref": headerRef});
     }
 
     categoryDiv.appendChild(categoryTitle);
@@ -33,12 +37,19 @@ fetch('2025.json')
 
       const projectTitle = document.createElement('p');
       projectTitle.className = 'projectTitle';
+
+      if(project.year === "") {
       projectTitle.innerHTML = `
         ${project.title}<br>
+        ${project.subtitle}<br><brW
+      `;   
+      } else {
+        projectTitle.innerHTML = `
+        ${project.title}<br>
         ${project.subtitle}<br>
+        ${project.year}<br><br>
       `;
-
-      //        ${project.year}
+      }
 
       const projectText = document.createElement('p');
       projectText.className = 'project_text';
@@ -96,14 +107,29 @@ fetch('2025.json')
 
     container.appendChild(categoryDiv);
   });
+
+  generateNavigation();
 })
 .catch(err => console.error('Error loading projects:', err));
-
 
 function formatTitleToRef(title) {
   return title.toLowerCase().replace(/\s+/g, '') + 'ref';
 }
 
-function loadNavigation() {
+function generateNavigation() {
+  const work = document.getElementById("work");
+  navigation.reverse();
 
+  navigation.forEach((navigationItem, index) => {
+  const navItem = document.createElement("li");
+  const navLink = document.createElement("a");
+
+  navLink.className = "navLarge";
+  navLink.href = `#${navigationItem.ref}`;
+  navLink.innerHTML = navigationItem.title;
+
+  navItem.appendChild(navLink);
+
+  work.after(navLink)
+  });
 }
